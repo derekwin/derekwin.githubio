@@ -31,7 +31,7 @@ layout: default
 - <p style="text-align:left;font-weight:bold;">空间网络ddos仿真项目<span style="float:right;">2021.10~2022.12</span></p>
 负责基于**cesium**的空间网络仿真演示系统前端以及基于**fastapi**的websocket后端的开发,实现了增量式的网络环境仿真.
 - <p style="text-align:left;font-weight:bold;">基于contourlet的多源图像融合技术研究<span style="float:right;">2018.10~2019.5</span></p>
-负责contoutlet变换算法的研究,以及基于此算法的图像融合算法的开发.
+负责contourlet变换算法的研究,以及基于此算法的图像融合算法的开发.
 
 ### 个人项目
 - <p style="text-align:left;font-weight:bold;">EasyDES <a href="https://github.com/NetExperimentEasy/EasyDES">🔗</a><span style="float:right;">2022.4~</span></p>
