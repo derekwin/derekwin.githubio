@@ -20,19 +20,28 @@ layout: default
 ## 项目经历
 ### 科研项目
 
-- <p style="text-align:left;">基于Q-learning的多路径拥塞算法<span style="float:right;">*[2022.1~]*</span></p>
-*C，unix内核开发*
-- wifi攻防接入 *[2022.2~2022.3]*
-- 工业损伤检测 *[2021.12]*
-- 基于cesium的卫星网络可视化 *[2021.10~2022.12]*
-- 基于contourlet的多源图像融合技术研究 *[2018.10~2019.5]*
+- <p style="text-align:left;">基于Q-learning的多路径拥塞算法<span style="float:right;">2022.1~</span></p>
+*lunix内核模块开发 c*
 
+- <p style="text-align:left;">空间网络攻防系统无线接入模块<span style="float:right;">2022.1~2022.3</span></p>
+*python socket 无线攻防模块*
+
+- <p style="text-align:left;">物体表面损伤检测<span style="float:right;">2021.12</span></p>
+*python 机器学习*
+- <p style="text-align:left;">空间网络ddos仿真项目<span style="float:right;">2021.10~2022.12</span></p>
+*python javascript / cesium，STK，fastapi*
+- <p style="text-align:left;">基于contourlet的多源图像融合技术研究<span style="float:right;">2018.10~2019.5</span></p>
+*matlab*
 
 ### 开源项目
-- EasyDES*[2022.4~]*
-- geekbox：内部社区应用网站*[2018.6~2020.6]*
-- 色差计算系统界面程序开发*[2019.3]*
-- Artist_blog*[2018.4~2018.6]*
+- <p style="text-align:left;">EasyDES<span style="float:right;">2022.4~</span></p>
+*python*
+- <p style="text-align:left;">geekbox：社群内部资源共享管理平台<span style="float:right;">2018.6~2020.6</span></p>
+*python html css js / django bootstrap4*
+- <p style="text-align:left;">色差计算系统界面程序开发<span style="float:right;">2019.3</span></p>
+*python / tkinter opencv*
+- <p style="text-align:left;">Artist_blog<span style="float:right;">2018.4~2018.6</span></p>
+*python / flask vue quasar*
 
 ## Typography
 
