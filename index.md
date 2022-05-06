@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## 教育信息
 
 <img class="profile-picture" src="sherlock.jpg">
 

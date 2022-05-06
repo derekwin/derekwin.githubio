@@ -1,5 +1,5 @@
-title: Researcher
-url: "https://ankitsultana.com"
+title: 刘晋尧
+url: "https://github.com/derekwin"
 baseurl: "/"
 
 markdown: kramdown
@@ -16,9 +16,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "Jacelau@outlook.com"
+   link: "Jacelau@outlook.com"
+ - name: "17684352629"
+  #  link: "resume.pdf"
+ - name: "github.com/derekwin"
+   link: "https://github.com/derekwin"
