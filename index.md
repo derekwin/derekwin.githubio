@@ -34,18 +34,18 @@ layout: default
 - <p style="text-align:left;">基于contourlet的多源图像融合技术研究<span style="float:right;">2018.10~2019.5</span></p>
 *负责contoutlet变换算法的研究,以及基于此算法的图像融合算法的开发.*
 
-### 开源项目
+### 个人项目
 - <p style="text-align:left;">EasyDES<span style="float:right;">2022.4~</span></p>
 *一个分布式任务分发python库,主要用于大规模网络实验中,实验任务的分发,执行控制,实验数据结果的收集.*
 - <p style="text-align:left;">SMTP敏感邮件过滤应用<span style="float:right;">2022.4~</span></p>
-*基于smtp包过滤的邮件敏感字过滤程序,适用于敏感信息保护.*
+*基于smtp包过滤的邮件敏感字过滤程序,用于企业敏感信息保护.*
 - <p style="text-align:left;">geekbox：社群内部资源共享管理平台<span style="float:right;">2018.6~2020.6</span></p>
 *基于django,bootstrap实现的一个封闭式社群网站应用,实现了论坛模块,在线聊天室,图书馆模块.*
+- <p style="text-align:left;">财务管理系统<span style="float:right;">2018.4~2018.6</span></p>
+*基于django,chartjs,bootstrap5实现的企业财务管理系统,功能包括账单生成,数据统计,图标显示,发票生成等.[该项目被多家企业使用]*
 - <p style="text-align:left;">色差计算系统界面程序开发<span style="float:right;">2019.3</span></p>
 *基于python，tkinter，opencv，pillow实现的一个色差计算系统界面程序.*
 - <p style="text-align:left;">Artist_blog<span style="float:right;">2018.4~2018.6</span></p>
-*基于vue,django,quasar实现的一个博客应用.*
-- <p style="text-align:left;"><span style="float:right;">2018.4~2018.6</span></p>
 *基于vue,django,quasar实现的一个博客应用.*
 
 ## Typography
@@ -64,11 +64,3 @@ Here is a horizontal rule
 
 ---
 
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
