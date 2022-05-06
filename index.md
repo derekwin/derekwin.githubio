@@ -15,7 +15,7 @@ layout: default
 
 ## 科研兴趣
 
-机器学习(深度强化学习,多智能体强化学习),多路径传输协议.
+**机器学习(深度强化学习,多智能体强化学习),多路径传输协议**.
 
 ## 项目经历
 ### 科研项目
@@ -27,25 +27,25 @@ layout: default
 负责攻防系统中无线接入攻防模块的开发,主要使用**python**语言.最终实现了一个攻击模块，防御模块，以及接入控制.
 
 - <p style="text-align:left;">物体表面损伤检测<span style="float:right;">2021.12</span></p>
-负责工件表面损伤数据集增强,图像预处理,以及损伤检测算法的编写,使用语言**python**.
+负责工件表面损伤**数据集增强**,**图像预处理**,以及**损伤检测算法**的编写,使用语言**python**.
 - <p style="text-align:left;">空间网络ddos仿真项目<span style="float:right;">2021.10~2022.12</span></p>
-负责基于cesium的空间网络仿真演示系统前端以及基于fastapi的websocket后端的开发,实现了增量式的网络环境仿真.
+负责基于**cesium**的空间网络仿真演示系统前端以及基于**fastapi**的websocket后端的开发,实现了增量式的网络环境仿真.
 - <p style="text-align:left;">基于contourlet的多源图像融合技术研究<span style="float:right;">2018.10~2019.5</span></p>
 负责contoutlet变换算法的研究,以及基于此算法的图像融合算法的开发.
 
 ### 个人项目
 - <p style="text-align:left;">EasyDES<span style="float:right;">2022.4~</span></p>
-一个分布式任务分发python库,主要用于大规模网络实验中,实验任务的分发,执行控制,实验数据结果的收集.
+一个分布式任务分发**python库**,主要用于大规模网络实验中,实验任务的分发,执行控制,实验数据结果的收集.
 - <p style="text-align:left;">SMTP敏感邮件过滤应用<span style="float:right;">2022.4~</span></p>
 基于smtp包过滤的邮件敏感字过滤程序,用于企业敏感信息保护.
 - <p style="text-align:left;">geekbox：社群内部资源共享管理平台<span style="float:right;">2018.6~2020.6</span></p>
-基于django,bootstrap实现的一个封闭式社群网站应用,实现了论坛模块,在线聊天室,图书馆模块.
+基于**django**,**bootstrap**实现的一个封闭式社群网站应用,实现了论坛模块,在线聊天室,图书馆模块.
 - <p style="text-align:left;">财务管理系统<span style="float:right;">2018.4~2018.6</span></p>
-基于django,chartjs,bootstrap5实现的企业财务管理系统,功能包括账单生成,数据统计,图标显示,发票生成等.[该项目被多家企业使用]
+基于**django**,**chartjs**,**bootstrap5**实现的企业财务管理系统,功能包括账单生成,数据统计,图标显示,发票生成等.[该项目被多家企业使用]
 - <p style="text-align:left;">色差计算系统界面程序开发<span style="float:right;">2019.3</span></p>
-基于python，tkinter，opencv，pillow实现的一个色差计算系统界面程序.
+基于**python**,**tkinter**,**opencv**,**pillow**实现的一个色差计算系统界面程序.
 - <p style="text-align:left;">Artist_blog<span style="float:right;">2018.4~2018.6</span></p>
-基于vue,django,quasar实现的一个博客应用.
+基于**vue**,**django**,**quasar**实现的一个博客应用.
 
 ## Typography
 
