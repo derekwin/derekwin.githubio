@@ -13,21 +13,25 @@ layout: default
 - GitHub主页 : [github.com/derekwin](https://github.com/derekwin)
 - Blog : [seclee.com](https://seclee.com)
 
-## 科研兴趣 & 技术范围
+## 科研兴趣
 
-机器学习(深度强化学习，多智能体强化学习),多路径传输协议<br>
-编程语言 : Python/C/Html/Css/Js等.
-框架: Django/Flask/Fastapi等
-
+机器学习(深度强化学习，多智能体强化学习),多路径传输协议.
 
 ## 过往项目
+### 科研项目
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+- 基于Q-learning的多路径拥塞算法开发*[2022.1~]*
+- wifi攻防接入*[2022.2~2022.3]*
+- 工业损伤检测*[2021.12]*
+- 基于cesium的卫星网络可视化*[2021.10~2022.12]*
+- 基于contourlet的多源图像融合技术研究*[2018.10~2019.5]*
 
-## 开源项目
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+### 开源项目
+- EasyDES*[2022.4~]*
+- geekbox：内部社区应用网站*[2018.6~2020.6]*
+- 色差计算系统界面程序开发*[2019.3]*
+- Artist_blog*[2018.4~2018.6]*
 
 ## Typography
 
