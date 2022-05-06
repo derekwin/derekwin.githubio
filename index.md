@@ -47,19 +47,11 @@ layout: default
 - <p style="text-align:left;font-weight:bold;">Artist_blog<span style="float:right;">2018.4~2018.6</span></p>
 基于**vue**,**django**,**quasar**实现的一个博客应用.
 
-## Typography
+---
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## 技术栈
 
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+Python/C,熟悉django,flask,fastapi等web后端框架,熟悉bootstrap等web前端框架,熟悉主流的python数据处理库,机器学习及强化学习库,有过vue,flutter等前端开发经历.
 
 ---
 
