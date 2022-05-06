@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/derekwin"
-footer_text: "my github"
+footer_url: "https://seclee.com"
+footer_text: "seclee.com"
 
 sass:
     style: compressed
