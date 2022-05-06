@@ -10,10 +10,14 @@ layout: default
 
 我目前在长春理工大学计算机学院智能网络与信息安全研究室攻读硕士学位(2021-),师从祁晖副教授.
 研究方向：**数据驱动的多路径传输协议优化**.本科毕业于长春理工大学理学院电子科学与技术专业(2015-2019)显示与成像技术方向.
-- 我的GitHub主页:[github.com/derekwin](https://github.com/derekwin)
-- 我的blog:[seclee.com](https://seclee.com)
+> GitHub主页:[github.com/derekwin](https://github.com/derekwin) <br>
+> Blog:[seclee.com](https://seclee.com)
 
-## 科研项目
+## 科研兴趣
+
+机器学习(深度强化学习),多路径传输协议
+
+## 过往项目
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
