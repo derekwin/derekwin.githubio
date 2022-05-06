@@ -8,10 +8,10 @@ layout: default
 
 男/1997/山西
 
-我目前在长春理工大学计算机学院智能网络与信息安全研究室攻读硕士学位，师从祁晖副教授。
-研究方向：数据驱动的多路径传输协议优化。
-
-This is a jekyll based resume template. You can find the full source code on [GitHub:derekwin](https://github.com/derekwin)
+我目前在长春理工大学计算机学院智能网络与信息安全研究室攻读硕士学位(2021-),师从祁晖副教授.
+研究方向：**数据驱动的多路径传输协议优化**.本科毕业于长春理工大学理学院电子科学与技术专业(2015-2019)显示与成像技术方向.
+- 我的GitHub主页:[github.com/derekwin](https://github.com/derekwin)
+- 我的blog:[seclee.com](https://seclee.com)
 
 ## 科研项目
 
